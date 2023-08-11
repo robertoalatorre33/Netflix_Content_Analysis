@@ -1,9 +1,5 @@
 # Netflix_Content_Analysis
-In the process of conducting a comprehensive Netflix content analysis, a two-fold strategy was employed, centering around the utilization of Python and Tableau.
-
-Python was used to prepare the data, employing a combination of Python libraries and coding techniques to identify and rectify errors, address missing values, and manipulate the data. 
-
-The cleaned data was then plugged into Tableau to create visualizations that provide a comprehensive overview of various aspects of Netflix's content, revealing trends, patterns, and key insights that might otherwise remain hidden within the data.
+Conducted an analysis of Netflix content where I utilized Python to clean and prepare the data before plugging it into Tableau to create visualizations that provide an overview of various aspects of Netflix's content, revealing trends, patterns, and key insights that might otherwise remain hidden within the data.
 
 <img src="https://github.com/robertoalatorre33/netflix_titles_analysis/blob/dcdaec091f5fd8d0f4be82684fb1a78223c71c64/dashboard_visual/Netflix_content_analysis_dashboard.jpg" width="400" height="350"> 
 
