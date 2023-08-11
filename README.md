@@ -16,6 +16,7 @@ The cleaned data was then plugged into Tableau to create visualizations that pro
 - Does Netflix uniformly target specific demographics or does it vary by country?
 - What are the top categories of content on Netflix? 
 
+Data Dictionary:
 
 | Feature                  | Description                                                                               | DataType |
 |--------------------------|-------------------------------------------------------------------------------------------|----------|
