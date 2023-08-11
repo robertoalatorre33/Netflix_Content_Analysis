@@ -7,13 +7,12 @@ Conducted an analysis of Netflix content where I utilized Python to clean and pr
 
 **Inspirational Questions:** Here are some open-ended questions that you can explore and try to address through creating visualizations, or Python analyses.
 
-- Which country has the most significant presence on Netflix?
-- How does content vary by country?
-- What is the distribution of ratings by content type?
-- How has content been added over the years?
-- Does Netflix uniformly target specific demographics or does it vary by country?
-- What are the top categories of content on Netflix? 
-
+- Which country holds the most substantial presence on Netflix?
+- How does the content library differ among various countries?
+- What is the distribution of ratings based on the type of content (movie or TV show)?
+- How has the addition of content changed over the years?
+- Is Netflix's content targeting consistent across countries or does it vary by region?
+- What are the primary categories that constitute the top content on Netflix?
 ---
 
 **Data Dictionary:**
