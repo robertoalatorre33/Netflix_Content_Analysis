@@ -3,6 +3,8 @@ Conducted an analysis of Netflix content where I utilized Python to clean and pr
 
 <img src="https://github.com/robertoalatorre33/netflix_titles_analysis/blob/dcdaec091f5fd8d0f4be82684fb1a78223c71c64/dashboard_visual/Netflix_content_analysis_dashboard.jpg" width="400" height="350"> 
 
+--- 
+
 **Inspirational Questions:** Here are some open-ended questions that you can explore and try to address through creating visualizations, or Python analyses.
 
 - Which country has the most significant presence on Netflix?
@@ -12,7 +14,9 @@ Conducted an analysis of Netflix content where I utilized Python to clean and pr
 - Does Netflix uniformly target specific demographics or does it vary by country?
 - What are the top categories of content on Netflix? 
 
-Data Dictionary:
+---
+
+**Data Dictionary:**
 
 | Feature                  | Description                                                                               | DataType |
 |--------------------------|-------------------------------------------------------------------------------------------|----------|
