@@ -1,10 +1,8 @@
 # Netflix_Content_Analysis
 Conducted an analysis of Netflix content, utilizing Python to clean and prepare the data before plugging it into Tableau to create visualizations that provide an overview of various aspects of Netflix's content, revealing trends, patterns, and key insights.
 
-Link to [**Netflix Content Analysis Dashboard**](https://public.tableau.com/app/profile/roberto.a.la.torre/viz/NetflixContentAnalysis_16910369373120/Dashboard1) on Tableau Public
-
 <img src="https://github.com/robertoalatorre33/netflix_titles_analysis/blob/dcdaec091f5fd8d0f4be82684fb1a78223c71c64/dashboard_visual/Netflix_content_analysis_dashboard.jpg" width="400" height="350"> 
-
+Link to [**Netflix Content Analysis Dashboard**](https://public.tableau.com/app/profile/roberto.a.la.torre/viz/NetflixContentAnalysis_16910369373120/Dashboard1) on Tableau Public
 --- 
 
 **Inspirational Questions:** Here are some open-ended questions that you can explore and try to address through creating visualizations, or Python analyses.
